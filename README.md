@@ -4,3 +4,8 @@
   <img src="assets/logo.svg" width="60%" alt="Miruameli" />
 </div>
 <hr>
+<div align="center">
+
+**Prompt Engineer**
+
+</div>
